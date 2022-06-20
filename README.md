@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @DustyGanteng
 - 👀 I’m a Minecraft player
-- 🌱 I’m currently learning Python
